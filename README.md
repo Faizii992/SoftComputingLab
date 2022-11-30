@@ -1,11 +1,11 @@
 # SoftComputingLab
 
 
-# Project 1:
+# Assignment 2:
 
 
 
-In project 2 had two parts.
+# Assignment 2 had two parts.
 
 In part 1, we were asked to design convolutional neural networks using pytorch to correctly classify images of handwritten bangla numeric digits to their appropripate classes. We were asked to find out the optimal hyper parameters by trial and error. Dataset used for this was named "Dataset C" given in the drive link.
 
@@ -16,12 +16,12 @@ Tools Used: Pytorch
 Datasets Used: https://drive.google.com/drive/folders/1JdzhqZFqDJ4rKEgrgdBDKTMKxgnXaibF?usp=share_link
 
 
-# Project 2:
+# Project 1:
 For this project I did Sentiment Analysis for Tweets using Bi-LSTM and using TensorFlow.
 
 Tools Used: Tensorflow
 
-# Project 3
+# Project 2
 
 For this project me and my group members did Sentiment Analysis for Tweets using:
 1) Bi_LSTM, Bi_RNN
