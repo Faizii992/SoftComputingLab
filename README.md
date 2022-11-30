@@ -25,7 +25,6 @@ Tools Used: Tensorflow
 
 For this project me and my group members did Sentiment Analysis for Tweets using:
 1) Bi_LSTM, Bi_RNN
-2) 
-3) LSTM and CNN
+2) LSTM and CNN
 
 Tools Used: Tensorflow
