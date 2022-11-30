@@ -28,3 +28,5 @@ For this project me and my group members did Sentiment Analysis for Tweets using
 2) LSTM and CNN
 
 Tools Used: Tensorflow
+
+Dataset used: "Twitter_data.csv" from https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
